@@ -77,8 +77,8 @@
   
   
 ## Contact me 📫:
-[![Gmail Badge](https://img.shields.io/badge/-chtioui.sk@gmail.com-red?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:chtioui.sk@gmail.com)](mailto:chtioui.sk@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Skander.Chtioui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/skander-chtioui/)](https://www.linkedin.com/in/skander-chtioui/)
+[![Gmail Badge](https://img.shields.io/badge/-olfahabchii@gmail.com-red?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:olfahabchii@gmail.com)](mailto:olfahabchii@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Olfa.Habchi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olfa-habchi/)](https://www.linkedin.com/in/olfa-habchi/)
 
 
 
